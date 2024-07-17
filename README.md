@@ -4,6 +4,13 @@ Pandas challenge to prepare data with movie reviews. Extracts data from two diff
 
 ## Getting started
 
+Create a `.env` file with the following keys. Set the values for each api key to your api key.
+
+```bash
+NYT_API_KEY=
+TMDB_API_KEY=
+```
+
 Open the project and run the command below
 
 ```bash
